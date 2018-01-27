@@ -1,5 +1,7 @@
 # Introduction
 
+> 本开源书 forked from [Building Web Apps with Go](https://github.com/codegangsta/bwag)，作者为 [codegangsta](https://github.com/codegangsta)，欢迎大家 star 原作者的 [repo](https://github.com/codegangsta/bwag)，以便获得最新更新，谢谢！
+
 Welcome to **Building Web Apps with Go**! If you are reading this then you have just started your journey from noob to pro. No seriously, web programming in Go is so fun and easy that you won't even notice how much information you are learning along the way!
 
 Keep in mind that there are still portions of this book that are incomplete and need some love. The beauty of open source publishing is that I can give you an incomplete book and it is still of value to you.
